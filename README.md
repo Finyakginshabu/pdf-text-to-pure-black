@@ -48,3 +48,15 @@ convert_to_black(
     image_mode=image_mode
 )
 ```
+
+## Result
+
+Source file: https://global.oup.com/us/companion.websites/9780199339273/pdf/Appendix_C_CITables.pdf
+
+Here is the result after converting the original PDF file to pure black.
+
+![0](./results/0.jpg)
+
+Before (left) vs. After (right)
+
+![1](./results/1.jpg)
