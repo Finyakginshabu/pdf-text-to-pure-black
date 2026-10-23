@@ -1,6 +1,6 @@
 # PDF text to pure Black
 
-A lightweight Python/Jupyter tool designed to force all text, vector graphics, and/or raster elements in a PDF into **pure solid black** (`#000000`).
+A script designed to force all text, vector graphics, and/or raster elements in a PDF into **pure solid black** (`#000000`).
 
 ## Why
 
